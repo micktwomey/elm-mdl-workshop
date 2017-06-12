@@ -36,7 +36,7 @@ type alias Machine =
     , url : String
     , scores : List ( Int, String ) -- score -> name
     , newScore : Int
-    , newScoreName : String
+    , newScoreName : String -- There's a little bug here, Maybe String would be better
     }
 
 
