@@ -43,22 +43,20 @@ We can afford more than one machine now!
 
 ## Step 2
 
-Let's create a basic elm-mdl UI!
+Let's create a basic elm-mdl UI and show our machine!
 
 ### Exercise 2
 
-## Step 3
-
-Let's show our machine!
-
-### Exercise 3
-
 Let's show all our machines!
 
-## Step 4
+Bonus: Can we embed a link to www.arcade-museum.com in each card?
+
+Bonus bonus: Can we embed a picture from www.arcade-museum.com in each card?
+
+## Step 3
 
 Let's record some game plays!
 
-### Exercise 4
+### Exercise 3
 
 Let's graph our plays!
