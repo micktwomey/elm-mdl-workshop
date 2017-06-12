@@ -65,6 +65,8 @@ Freeform :)
 
 Let's work on different ideas:
 
+- Lets split the machine out into it's own module.
+- Can we start following the elm-spa-example structure?
 - Adding a graph of scores? elm-plot or sparklines (Enjoy the SVG integration in Elm's HTML)
 - Why not fetch the image using a task?
 - Persist the scores somewhere?
