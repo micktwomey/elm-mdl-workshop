@@ -53,10 +53,18 @@ Bonus: Can we embed a link to www.arcade-museum.com in each card?
 
 Bonus bonus: Can we embed a picture from www.arcade-museum.com in each card?
 
+Bonus bonus bonus: Can we make the card look a little less boring?
+
 ## Step 3
 
-Let's record some game plays!
+Let's record some high scores!
 
-### Exercise 3
+## Exercise 3
 
-Let's graph our plays!
+Freeform :)
+
+Let's work on different ideas:
+
+- Adding a graph of scores? elm-plot or sparklines (Enjoy the SVG integration in Elm's HTML)
+- Why not fetch the image using a task?
+- Persist the scores somewhere?

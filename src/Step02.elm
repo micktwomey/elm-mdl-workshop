@@ -70,8 +70,8 @@ viewMachine machine =
     Card.view
         [ Elevation.e2
         ]
-        [ Card.title [] [ Card.head [ Color.text Color.black ] [ Html.text machine.name ] ]
-        , Card.text [ Card.expand, Color.text Color.black, Typography.headline ]
+        [ Card.title [] [ Card.head [ Color.text Color.primary ] [ Html.text machine.name ] ]
+        , Card.text [ Card.expand, Color.text Color.primary, Typography.headline ]
             [ List.ul []
                 [ List.li [] [ Html.text machine.manufacturer ]
                 ]
